@@ -1,0 +1,24 @@
+_repo: Debs-His-Life-Writings-and-Speeches-with-a-Department-of-Appreciations_59110
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Debs, Eugene V. (Eugene Victor)
+    alias: Debs, Eugene Victor
+    birthdate: 1855
+    deathdate: 1926
+    gutenberg_agent_id: '36649'
+    url: http://www.gutenberg.org/2009/agents/36649
+    wikipedia: http://en.wikipedia.org/wiki/Eugene_V._Debs
+description: ''
+gutenberg_issued: '2019-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Debs: His Life, Writings and Speeches, with a Department of Appreciations'
+url: http://www.gutenberg.org/ebooks/59110
